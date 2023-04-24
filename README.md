@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brandon Maczynski!
+- 👀 I’m interested in making programming my profession.
+- 🌱 I’m currently learning Python / Java
+- 👏 I’m looking to collaborate on anything!
+- 📫 How to reach me: bmaczynski11@yahoo.com
